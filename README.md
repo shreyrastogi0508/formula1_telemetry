@@ -6,7 +6,12 @@ We did a quick analysis to see how Sergio Perez's defence against Lewis Hamilton
 
 
 
-![alt text](http://url/to/img.png)
+![HAM vs VER](https://github.com/shreyrastogi0508/formula1_telemetry/blob/master/images/HAM%20vs%20VER.png)
+
+![HAM vs VER Telemetry](https://github.com/shreyrastogi0508/formula1_telemetry/blob/master/images/HAM%20vs%20VER%20Telemetry.png)
+
+![HAm20 vs HAM22](https://github.com/shreyrastogi0508/formula1_telemetry/blob/master/images/HAM20vs%20HAM22.png)
+
 
 References:
 <br /> [F1 Tempo](https://www.f1-tempo.com)
