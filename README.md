@@ -1,6 +1,6 @@
 # Formula1 Telemetry
 
-This is a very basic method of plotting and analysing data from the Yas Marina, Abu Dhabi, season finale in 2021. We'll be looking at Lewis Hamilton and Max Verstappen, the two main protangonists for the 2021 season. 
+This is a very basic method of plotting and analysing data from the Yas Marina, Abu Dhabi, season finale in 2021. We'll be looking at Lewis Hamilton and Max Verstappen, the two main protagonists for the 2021 season. 
 
 We did a quick analysis to see how Sergio Perez's defence against Lewis Hamilton affected the race.
 
